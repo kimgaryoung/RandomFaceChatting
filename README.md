@@ -1,4 +1,4 @@
-<img width="752" height="410" alt="KakaoTalk_20251231_144141570_01" src="https://github.com/user-attachments/assets/ed1d92fd-cdb5-4603-8e45-77c68ee62682" /># RandomFaceChatting
+># RandomFaceChatting
 
 
 #🚀 핸덤 화상 채팅
@@ -13,16 +13,28 @@
 
 
 
-<img width="760" height="420" alt="KakaoTalk_20251231_144141570_05" src="https://github.com/user-attachments/assets/6e285f49-a750-4205-b8fd-343ef9bb90d8" />
-<img width="753" height="419" alt="KakaoTalk_20251231_144141570_04" src="https://github.com/user-attachments/assets/b780fcc9-52fc-41e5-9c78-3f6e50500a2f" />
+<img width="757" height="422" alt="KakaoTalk_20251231_144143929" src="https://github.com/user-attachments/assets/4e54e757-6705-4e9d-8190-66f9acb9402b" />
 
 
-
-![Uploading KakaoTal<img width="2514" height="1340" alt="KakaoTalk_20251231_133828227" src="https://github.com/user-attachments/assets/c159a9ad-776a-4583-bb47-313157835099" />
-<img width="757" height="422" alt="KakaoTalk_20251231_144143929" src="https://github.com/user-attachments/assets/6594e2d9-7ca2-4df7-8cd2-1ce831b480f2" />
-k_20251231_144141570_01.png…]()
+<img width="752" height="423" alt="KakaoTalk_20251231_144141570_02" src="https://github.com/user-attachments/assets/b173dfa4-eded-4a29-8551-13db79c26ac7" />
 
 
-<img width="752" height="423" alt="KakaoTalk_20251231_144141570_02" src="https://github.com/user-attachments/assets/36c7b2e6-1660-461f-8fdf-622169f8dd08" />
-<img width="751" height="421" alt="KakaoTalk_20251231_144141570" src="https://github.com/user-attachments/assets/a4b8206a-8561-4ef4-a9c6-8ce3a9283d12" />
+<img width="753" height="418" alt="KakaoTalk_20251231_144141570_03" src="https://github.com/user-attachments/assets/f7951dec-9881-49f9-88c7-4e1d2295443c" />
+
+
+<img width="2514" height="1340" alt="KakaoTalk_20251231_133828227" src="https://github.com/user-attachments/assets/adf65daa-8863-4c11-a559-6c9442849feb" />
+
+
+<img width="760" height="420" alt="KakaoTalk_20251231_144141570_05" src="https://github.com/user-attachments/assets/b0f9b239-5cd0-47c4-90b5-56a64b403e9d" />
+
+
+<img width="751" height="421" alt="KakaoTalk_20251231_144141570" src="https://github.com/user-attachments/assets/5f39742e-43ef-486b-aed1-c0ccd72f7408" />
+
+
+<img width="753" height="419" alt="KakaoTalk_20251231_144141570_04" src="https://github.com/user-attachments/assets/e179137a-0508-4b99-b899-d972e21de642" />
+
+
+<img width="752" height="410" alt="KakaoTalk_20251231_144141570_01" src="https://github.com/user-attachments/assets/c1c161ff-d6dd-45fa-acb9-b133a622acca" />
+
+
 
