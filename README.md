@@ -26,8 +26,6 @@
 <img width="760" height="420" alt="KakaoTalk_20251231_144141570_05" src="https://github.com/user-attachments/assets/b0f9b239-5cd0-47c4-90b5-56a64b403e9d" />
 
 
-<img width="751" height="421" alt="KakaoTalk_20251231_144141570" src="https://github.com/user-attachments/assets/5f39742e-43ef-486b-aed1-c0ccd72f7408" />
-
 
 <img width="753" height="419" alt="KakaoTalk_20251231_144141570_04" src="https://github.com/user-attachments/assets/e179137a-0508-4b99-b899-d972e21de642" />
 
