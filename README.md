@@ -1,12 +1,12 @@
 
-#🚀 핸덤 화상 채팅
+# 🚀핸덤 화상 채팅 
 
-###📋프로젝트 개요개발 기간: 2025.09 ~ 2025.10.20
+### 📋프로젝트 개요개발 기간: 2025.09 ~ 2025.10.20 
 
-주요 기술: C# windowform,opencvsharp
+### 주요 기술: C# windowform,opencvsharp 
 
 
-📽 발표 자료 (Presentation)
+### 📽 발표 자료 (Presentation) 
 
 
 
