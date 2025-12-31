@@ -1,5 +1,3 @@
-># RandomFaceChatting
-
 
 #🚀 핸덤 화상 채팅
 
